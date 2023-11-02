@@ -5,7 +5,7 @@
 
 - 📫 Reach me **dsh.b91@gmail.com**
 
-- ⚡ **I can give photography tips but I can't get rid of memory leaks**
+- ⚡ **I can give photography tips but I can't get rid of memory leaks** ⚡
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
