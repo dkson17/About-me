@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Dasha</h1>
 <h3 align="center">🤓Computer Science student at 42Berlin with lots of experience in photography📷</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dkson17&label=Profile%20views&color=0e75b6&style=flat" alt="dkson17" /> </p>
+
 - 🌱 I’m currently learning **C programming and algorithms**
 
 - 📫 Reach me **dsh.b91@gmail.com**
